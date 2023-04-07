@@ -11,6 +11,6 @@ Automating foodics whoAmI API using login API as precondition
   - Getting envirnment variables from property files (like environment & credentials)
 
 # How to run:
-- Download the project
+- Download the project or clone the project
 - Open terminal in the project folder
 - Run command mvn clean, mvn test
